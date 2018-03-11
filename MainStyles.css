@@ -1,5 +1,5 @@
 body {
-    background-image: url('src/Background.png');
+    background-image: url("src/logoback.png");
     background-color: #565656;
     background-position: center;
     background-size: cover;
@@ -13,7 +13,7 @@ body {
     align-items: center;
 }
 h1, h2, h3, h4, h5, h6 {
-    color: rgb(224, 224, 224);
+    color: rgb(45, 39, 100);
 }
 
 h1 {
