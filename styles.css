@@ -4,6 +4,11 @@ body {
     background-position: center;
     background-size: cover;
     text-align: center;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 h1, h2, h3, h4, h5, h6 {
     color: rgb(224, 224, 224);
